@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent Software Engineering graduate (CGPA 3.78, Batch Topper, Merit Scholarship recipient) with strong expertise in Artificial Intelligence, Machine Learning, and core software engineering. Experienced in academic research, peer-reviewed publications (IEEE, Nature Scientific Reports, Springer), and mentoring student projects. Proficient in Python, Java, C++, and modern AI/ML frameworks, with hands-on experience in full-stack and backend development. Passionate about research-driven innovation, analytical problem-solving, and building scalable, impactful software solutions.
+Recent Software Engineering graduate (CGPA 3.80, Batch Topper, Merit Scholarship recipient) with strong expertise in Artificial Intelligence, Machine Learning, and core software engineering. Experienced in academic research, peer-reviewed publications (IEEE, Nature Scientific Reports, Springer), and mentoring student projects. Proficient in Python, Java, C++, and modern AI/ML frameworks, with hands-on experience in full-stack and backend development. Passionate about research-driven innovation, analytical problem-solving, and building scalable, impactful software solutions.
 
 
 ## 🌐 Socials:
