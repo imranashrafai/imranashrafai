@@ -79,12 +79,16 @@ An AI-assisted SEO toolkit.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imranashrafai&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=imranashrafai&theme=radical&hide_border=true" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=imranashrafai&show_icons=true&theme=radical&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranashrafai&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
 
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=imranashrafai&theme=radical&hide_border=true" height="165"/>
+
 </div>
+
+> First load can take a moment — GitHub fetches these from a live stats service, not a saved image, so give it a few seconds and refresh once.
 
 <br/>
 
