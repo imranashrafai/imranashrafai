@@ -15,9 +15,11 @@
 
 ## Who I Am
 
-I build AI and machine learning systems end to end — from research papers to production code. Software Engineering graduate from the University of Lahore, top of my batch with a 3.80 CGPA and a merit scholarship. My published work spans IEEE, Nature Scientific Reports, and Springer, and I split my time between reinforcement learning research, full-stack development, and mentoring student teams on their first real projects.
+I am a Software Engineering graduate from the University of Lahore, ranked top of my batch with a 3.80 CGPA and awarded a merit scholarship. My work centers on artificial intelligence and machine learning, spanning academic research, applied engineering, and production software.
 
-I care about writing code that actually ships, and about explaining ideas clearly enough that someone new to the field can follow along.
+My research has been published in IEEE, Nature Scientific Reports, and Springer venues. Alongside this, I develop reinforcement learning systems, build full stack applications, and mentor student teams as they complete their first significant projects.
+
+I value writing software that is reliable enough to ship and explanations that are clear enough for someone new to the subject to follow.
 
 <br/>
 
@@ -28,7 +30,7 @@ I care about writing code that actually ships, and about explaining ideas clearl
 <td width="50%" valign="top">
 
 ### 🤖 [agentic-ai-zero-to-builder](https://github.com/imranashrafai/agentic-ai-zero-to-builder)
-A hands-on course for people who want to design and ship agentic AI systems in Python — built for beginners, structured for production habits.
+A practical course for people who want to design and ship agentic AI systems in Python. Written for beginners, with habits geared toward production use.
 
 `Python`
 
@@ -36,7 +38,7 @@ A hands-on course for people who want to design and ship agentic AI systems in P
 <td width="50%" valign="top">
 
 ### 🚗 [AutonomousVehicleMAPPO](https://github.com/imranashrafai/AutonomousVehicleMAPPO)
-Multi-agent reinforcement learning for cooperative self-driving, built with MAPPO on the MetaDrive simulator.
+A multi agent reinforcement learning framework for cooperative autonomous driving, built with MAPPO on the MetaDrive simulator.
 
 `Python` `Reinforcement Learning`
 
@@ -54,7 +56,7 @@ A management system built in PHP.
 <td width="50%" valign="top">
 
 ### 📈 [seo_ai_mastermind](https://github.com/imranashrafai/seo_ai_mastermind)
-An AI-assisted SEO toolkit.
+An AI assisted SEO toolkit.
 
 `Dart`
 
@@ -79,8 +81,8 @@ An AI-assisted SEO toolkit.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imranashrafai&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranashrafai&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=imranashrafai&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imranashrafai&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
 
 <br/>
 
@@ -88,7 +90,7 @@ An AI-assisted SEO toolkit.
 
 </div>
 
-> First load can take a moment — GitHub fetches these from a live stats service, not a saved image, so give it a few seconds and refresh once.
+> These cards load from a live stats service rather than a saved image. If one fails to appear, refresh the page after a few seconds.
 
 <br/>
 
