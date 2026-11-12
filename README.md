@@ -102,6 +102,18 @@ Full list on [ORCID](https://orcid.org/0009-0001-3402-5420).
 
 <img src="https://streak-stats.demolab.com/?user=imranashrafai&hide_border=true&background=0B1220&ring=2DD4BF&fire=2DD4BF&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=94A3B8&stroke=1E293B" height="165"/>
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imranashrafai&bg_color=0B1220&color=E2E8F0&line=2DD4BF&point=F8FAFC&area=true&area_color=2DD4BF&title_color=2DD4BF&hide_border=true&custom_title=Contribution%20activity" width="100%"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imranashrafai/imranashrafai/output/snake-teal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imranashrafai/imranashrafai/output/snake-teal-light.svg" />
+  <img alt="Contribution graph in teal, eaten by a snake" src="https://raw.githubusercontent.com/imranashrafai/imranashrafai/output/snake-teal.svg" width="100%" />
+</picture>
+
 </div>
 
 <br/>
