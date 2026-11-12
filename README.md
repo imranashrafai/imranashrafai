@@ -104,10 +104,6 @@ Full list on [ORCID](https://orcid.org/0009-0001-3402-5420).
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imranashrafai&bg_color=0B1220&color=E2E8F0&line=2DD4BF&point=F8FAFC&area=true&area_color=2DD4BF&title_color=2DD4BF&hide_border=true&custom_title=Contribution%20activity" width="100%"/>
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imranashrafai/imranashrafai/output/snake-teal.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imranashrafai/imranashrafai/output/snake-teal-light.svg" />
