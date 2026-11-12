@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:0F2A3D,100:2DD4BF&height=220&section=header&text=Imran%20Ashraf&fontSize=55&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26%20Researcher%20%C2%B7%20Explainable%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Imran Ashraf, AI Engineer and Researcher, Explainable AI"/>
 
 ### Building AI you can question.
 
@@ -110,6 +110,6 @@ Full list on [ORCID](https://orcid.org/0009-0001-3402-5420).
 
 📫 **imranashraf0k@gmail.com** · 📍 Islamabad, Pakistan · Open to PhD positions in Explainable AI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,40:0F2A3D,100:0B1220&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
 
 </div>
